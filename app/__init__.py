@@ -4,6 +4,7 @@ import platform
 
 app = Flask(__name__, static_folder='dist/static')
 
+
 # enable CORS
 CORS(app)
 

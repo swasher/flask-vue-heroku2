@@ -1,11 +1,13 @@
 # Flask Vue.js Heroku template
 
-This is a minimal working template with one-button heroku deploy, include:
+This is a minimal (more advanced than [first](https://github.com/swasher/flask-vue-heroku) version) working template
+with one-button heroku deploy, include:
 
 - flask backend
 - vue.js frontend (build with vue-cli-3)
 
 I wrote [article]() (in russian) about building and structure of this template.
+Second part of article under development.
 
 ## Live demo
 
